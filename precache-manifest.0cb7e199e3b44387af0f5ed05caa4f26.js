@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3746c4c555591d274ebe81329be3d564",
+    "revision": "b4b84aa14d36c8a6f2dc6b5562bd0df6",
     "url": "/ani-ecom/index.html"
   },
   {
-    "revision": "1f2d5705817210e29453",
+    "revision": "9c4eb885e3d311a25eba",
     "url": "/ani-ecom/static/css/main.3df08fc8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ani-ecom/static/js/2.25f416f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f2d5705817210e29453",
-    "url": "/ani-ecom/static/js/main.37aeee2b.chunk.js"
+    "revision": "9c4eb885e3d311a25eba",
+    "url": "/ani-ecom/static/js/main.bd9ca5f5.chunk.js"
   },
   {
     "revision": "2f01ab2a889613a8bf0f",

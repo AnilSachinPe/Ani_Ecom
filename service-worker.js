@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ani-ecom/precache-manifest.35665dfa096df1ff8a75628fb05e36ec.js"
+  "/ani-ecom/precache-manifest.0cb7e199e3b44387af0f5ed05caa4f26.js"
 );
 
 self.addEventListener('message', (event) => {
