@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ani-ecom/static/css/main.3df08fc8.chunk.css",
+    "main.js": "/ani-ecom/static/js/main.37aeee2b.chunk.js",
+    "main.js.map": "/ani-ecom/static/js/main.37aeee2b.chunk.js.map",
+    "runtime-main.js": "/ani-ecom/static/js/runtime-main.79d5c216.js",
+    "runtime-main.js.map": "/ani-ecom/static/js/runtime-main.79d5c216.js.map",
+    "static/js/2.25f416f2.chunk.js": "/ani-ecom/static/js/2.25f416f2.chunk.js",
+    "static/js/2.25f416f2.chunk.js.map": "/ani-ecom/static/js/2.25f416f2.chunk.js.map",
+    "index.html": "/ani-ecom/index.html",
+    "precache-manifest.35665dfa096df1ff8a75628fb05e36ec.js": "/ani-ecom/precache-manifest.35665dfa096df1ff8a75628fb05e36ec.js",
+    "service-worker.js": "/ani-ecom/service-worker.js",
+    "static/css/main.3df08fc8.chunk.css.map": "/ani-ecom/static/css/main.3df08fc8.chunk.css.map",
+    "static/js/2.25f416f2.chunk.js.LICENSE.txt": "/ani-ecom/static/js/2.25f416f2.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/ani-ecom/static/media/cart.8bf1af37.svg",
+    "static/media/close.svg": "/ani-ecom/static/media/close.2c5552a1.svg",
+    "static/media/menu.svg": "/ani-ecom/static/media/menu.b3f49afd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d5c216.js",
+    "static/js/2.25f416f2.chunk.js",
+    "static/css/main.3df08fc8.chunk.css",
+    "static/js/main.37aeee2b.chunk.js"
+  ]
+}
